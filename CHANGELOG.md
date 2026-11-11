@@ -1,3 +1,9 @@
+## 1.0.0 (2026-11-11)
+
+### ✨ New Features
+
+* initialize dev repository with automated push releases ([936c834](https://github.com/SatanMerde/D-moniakPatches-dev/commit/936c8347133b7c6e2789558f474039f4d962d61d))
+
 ## [1.73.1](https://github.com/SatanMerde/D-moniakPatches/compare/v1.73.0...v1.73.1) (2026-11-11)
 
 ### 🐛 Bug Fixes
