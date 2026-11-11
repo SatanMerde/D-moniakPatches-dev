@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/SatanMerde/D-moniakPatches-dev/compare/v1.0.0...v1.1.0) (2026-11-11)
+
+### ✨ New Features
+
+* **hotstar:** add live sports scte and sgai ad blocking ([14fb89f](https://github.com/SatanMerde/D-moniakPatches-dev/commit/14fb89fa69ccf730922f1bb84cce2ce1dce91711))
+
 ## 1.0.0 (2026-11-11)
 
 ### ✨ New Features
